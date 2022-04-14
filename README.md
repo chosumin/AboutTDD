@@ -1,4 +1,13 @@
-# AboutTDD
+# TDD
+
+TDD is one of the Agile process - test-first development before a software is fully developed.
+
+You don't follow the Waterfall model with TDD.
+TDD is the way of considering the validation of features first. So developer can be in charge of their code quality themselves.
+
+Instead of fear made by amount of code more and more, TDD converts the feeling to comfortable while you keep running the test.
+
+TDD makes your code much cohensing and decoupling as well, so the code quality becomes better.
 
 애자일 개발론의 하나 - 상향식 개발
 
